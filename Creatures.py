@@ -18,5 +18,17 @@ class Bear(Creature):
     def __init__(self):
  
         
+ asd
+    
 class Fish(Creature):
     def __init__(self):
+
+        
+
+def move: 
+    return 
+        
+        
+        
+        
+        
